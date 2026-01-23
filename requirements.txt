@@ -1,0 +1,6 @@
+streamlit
+google-cloud-bigquery
+pandas
+langchain-openai
+langchain-core
+langchain-community
